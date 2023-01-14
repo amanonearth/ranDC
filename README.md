@@ -21,11 +21,14 @@
 - Create a virtual enviroment<br>
 <code> python -m venv venv </code> <br>
 - Activate virtual enviroment<br>
-<code> source venv/bin/activate </code> <br>
+  - For windows:
+  <code> .\venv\Scripts\activate </code> <br>
+  - For Unix*:
+  <code> source venv/bin/activate </code> <br>
 - Install the requirements <br>
 <code> pip install -r REQUIREMENTS.txt </code> <br>
 - Run the run.py file: <br>
-<code> python3 app.py </code>
+<code> python app.py </code>
 
 # Usage
 - Once the flask server is up and running<br>
