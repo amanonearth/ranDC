@@ -25,7 +25,7 @@
 - Install the requirements <br>
 <code> pip install -r REQUIREMENTS.txt </code> <br>
 - Run the run.py file: <br>
-<code> python3 run.py </code>
+<code> python3 app.py </code>
 
 # Usage
 - Once the flask server is up and running<br>
