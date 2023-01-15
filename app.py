@@ -24,11 +24,6 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 ALLOWED_EXTENSIONS = set(['pcap'])
 thread = Thread()
 ALREADY_DONE = False
-
-def hack():
-    socketio.emit('newnumber', {'number': "Done"}, namespace='/test')
-    time.sleep(10)
-    socketio.emit('newnumber', {'number': filename}, namespace='/test')
     
     
 def predictions():
