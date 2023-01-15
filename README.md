@@ -10,7 +10,7 @@
 - ranDC framework is trained on Machine Learning (ML) and Hidden Markov Model with Gaussian Emmission (GMMHMM).
 - Network traffic dumps can be tested to check if it contains Ransomware/Malware traffic.
 - Decision Tree Classifer predictions are validated using GMMHMM.
-- Final state classifcation is done based on the <i>classfication_percentage</i>.
+- Final state classifcation is done based on the <i>classification_percentage</i>.
 - For more details, read the paper <a href="#">Link</a>.
 
 # Installation
