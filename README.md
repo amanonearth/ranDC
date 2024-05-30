@@ -15,7 +15,7 @@
 - Network traffic dumps can be tested to check if it contains Ransomware/Malware traffic.
 - Decision Tree Classifer predictions are validated using GMMHMM.
 - Final state classifcation is done based on the <i>classification_percentage</i>.
-- For more details, read the paper <a href="#">Link</a>.
+- For more details, read the paper <a href="https://ieeexplore.ieee.org/document/10225001">Link</a>.
 
 # Installation
 - First clone the repository or download the zip file: <br>
