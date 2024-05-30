@@ -3,7 +3,11 @@
   <a href="#features">Features</a> |
   <a href="#installation">Installation</a> |
   <a href="#usage">Usage</a> 
+  <a href="#paper">Research Paper</a>
 </p>
+
+# Research Paper
+<a href="https://ieeexplore.ieee.org/document/10225001">IEEE CSR 2023, Italy</a>
 
 # Features
 
